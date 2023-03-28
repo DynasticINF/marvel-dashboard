@@ -2,7 +2,7 @@
 
 Submitted by: **Jeremiah Anim**
 
-This web app: **insert description**
+This web app: **Allows you to look up Marvel characters**
 
 Time spent: **5** hours spent in total
 
